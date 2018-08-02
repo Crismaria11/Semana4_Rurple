@@ -6,5 +6,6 @@ import java.util.ArrayList;
 
 public class Map {
     ArrayList<Wall> = ArrayList();
+    
 
 }
